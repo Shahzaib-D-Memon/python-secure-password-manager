@@ -28,6 +28,8 @@ A robust Python-based Password Manager fortified with SHA-256 hashing for top-no
 - Choose option 1 to create an account or option 2 to login.
 - Enter the required information securely.
 
+![Password Manager Screenshot](run.PNG)
+
 ## Cybersecurity Best Practices:
 
 - Customize the script to fit your specific security needs.
